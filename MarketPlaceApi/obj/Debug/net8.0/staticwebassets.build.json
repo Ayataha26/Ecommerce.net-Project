@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pjczgZlNQCDC+V+Y3umtG8rY4OkkpNJQDwC6Z6ByBxA=",
+  "Source": "MarketPlaceApi",
+  "BasePath": "_content/MarketPlaceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

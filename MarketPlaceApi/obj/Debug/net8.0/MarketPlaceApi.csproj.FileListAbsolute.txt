@@ -1,0 +1,564 @@
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/appsettings.Development.json
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/appsettings.json
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.staticwebassets.endpoints.json
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.exe
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Azure.Core.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Azure.Identity.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/FluentValidation.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Humanizer.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.CodeDom.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Memory.Data.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.csproj.AssemblyReference.cache
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.GeneratedMSBuildEditorConfig.editorconfig
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.AssemblyInfoInputs.cache
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.AssemblyInfo.cs
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.csproj.CoreCompileInputs.cache
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.MvcApplicationPartsAssemblyInfo.cs
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.MvcApplicationPartsAssemblyInfo.cache
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/scopedcss/bundle/MarketPlaceApi.styles.css
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.build.json
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.development.json
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.MarketPlaceApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.MarketPlaceApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.build.MarketPlaceApi.props
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MarketPlaceApi.props
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MarketPlaceApi.props
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.pack.json
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPl.09A655DB.Up2Date
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/refint/MarketPlaceApi.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.pdb
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.deps.json
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.runtimeconfig.json
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.dll
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.pdb
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.genruntimeconfig.cache
+D:/downloads/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/ref/MarketPlaceApi.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/appsettings.json
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.deps.json
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.runtimeconfig.json
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.pdb
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Azure.Core.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Azure.Identity.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/FluentValidation.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Humanizer.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.CodeDom.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.csproj.AssemblyReference.cache
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.AssemblyInfoInputs.cache
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.AssemblyInfo.cs
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.csproj.CoreCompileInputs.cache
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.MarketPlaceApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.build.MarketPlaceApi.props
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MarketPlaceApi.props
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MarketPlaceApi.props
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/scopedcss/bundle/MarketPlaceApi.styles.css
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.csproj.CopyComplete
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/refint/MarketPlaceApi.dll
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.pdb
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.genruntimeconfig.cache
+/Users/moscow69/Desktop/termprojects/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/ref/MarketPlaceApi.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/appsettings.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.deps.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.runtimeconfig.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.pdb
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Azure.Core.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Azure.Identity.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/FluentValidation.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Humanizer.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.CodeDom.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.csproj.AssemblyReference.cache
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.AssemblyInfoInputs.cache
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.AssemblyInfo.cs
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.csproj.CoreCompileInputs.cache
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.MarketPlaceApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.build.MarketPlaceApi.props
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MarketPlaceApi.props
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MarketPlaceApi.props
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/scopedcss/bundle/MarketPlaceApi.styles.css
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.csproj.CopyComplete
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/refint/MarketPlaceApi.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.pdb
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.genruntimeconfig.cache
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi (2)/MarketPlaceApi/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/ref/MarketPlaceApi.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/appsettings.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.deps.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.runtimeconfig.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/MarketPlaceApi.pdb
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Azure.Core.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Azure.Identity.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/FluentValidation.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Humanizer.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.CodeDom.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.csproj.AssemblyReference.cache
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.AssemblyInfoInputs.cache
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.AssemblyInfo.cs
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.csproj.CoreCompileInputs.cache
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.MarketPlaceApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.build.MarketPlaceApi.props
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MarketPlaceApi.props
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MarketPlaceApi.props
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/scopedcss/bundle/MarketPlaceApi.styles.css
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.csproj.CopyComplete
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/refint/MarketPlaceApi.dll
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.pdb
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/MarketPlaceApi.genruntimeconfig.cache
+/Users/moscow69/Desktop/FullStack Ecommerce/MarketPlaceApi/MarketPlaceApi/obj/Debug/net8.0/ref/MarketPlaceApi.dll

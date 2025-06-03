@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250509180420_UpdateProductStatusFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MarketPlaceApi\\Migrations\\20250509180420_UpdateProductStatusFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\addproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\addproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\vendorregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\vendorregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\updateproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\updateproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\saveproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\saveproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\savedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\savedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\customerregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\customerregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\checkoutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\checkoutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\models\\autoapprovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\models\\autoapprovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\middleware\\adminauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\middleware\\adminauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\data\\marketplacedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\data\\marketplacedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\migrations\\20250420152628_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\migrations\\20250420152628_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\marketplaceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\marketplaceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250420151207_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MarketPlaceApi\\Migrations\\20250420151207_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250420134042_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MarketPlaceApi\\Migrations\\20250420134042_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\marketplaceapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\marketplaceapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|d:\\downloads\\marketplaceapi (2)\\marketplaceapi\\marketplaceapi\\marketplaceapi\\migrations\\20250506172305_addispendingtovendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10105304-7241-4537-A075-96F4252268D3}|MarketPlaceApi\\MarketPlaceApi.csproj|solutionrelative:marketplaceapi\\migrations\\20250506172305_addispendingtovendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250509180420_UpdateProductStatusFields.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250509180420_UpdateProductStatusFields.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Migrations\\20250509180420_UpdateProductStatusFields.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250509180420_UpdateProductStatusFields.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Migrations\\20250509180420_UpdateProductStatusFields.cs",
+              "ViewState": "AgIAAAgAAAAA/P////8PwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:04:20.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Services\\AdminService.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Services\\AdminService.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Services\\AdminService.cs",
+              "ViewState": "AgIAAJsAAAAAjpmZmRkqwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:54:45.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Services\\CustomerService.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:56:18.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendorService.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Services\\VendorService.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Services\\VendorService.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Services\\VendorService.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Services\\VendorService.cs",
+              "ViewState": "AgIAAAABAACAV2ZmZuYRwNgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:57:09.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Program.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Program.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Program.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T22:56:38.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAMAAAAAz8zMzMwnwBgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T05:01:04.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProductModel.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\AddProductModel.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\AddProductModel.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\AddProductModel.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\AddProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:07:18.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\Product.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\Product.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAACA/v////8hwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:15:34.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\OrderItem.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:14:44.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Services\\AuthService.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Services\\AuthService.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:55:25.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\Vendor.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\Vendor.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\Vendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:18:11.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\.net\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.net\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\.net\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\.net\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANEUAAAAgZmZmZntv+UUAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-09T17:47:51.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VendorRegisterModel.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\VendorRegisterModel.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\VendorRegisterModel.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\VendorRegisterModel.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\VendorRegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:18:53.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateProductModel.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\UpdateProductModel.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\UpdateProductModel.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\UpdateProductModel.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\UpdateProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:17:34.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaveProductDto.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\SaveProductDto.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\SaveProductDto.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\SaveProductDto.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\SaveProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:16:46.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SavedProduct.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\SavedProduct.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\SavedProduct.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\SavedProduct.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\SavedProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:16:07.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\Order.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\Order.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:13:59.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\LoginModel.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:13:09.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerRegisterModel.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\CustomerRegisterModel.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\CustomerRegisterModel.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\CustomerRegisterModel.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\CustomerRegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:12:37.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\Customer.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\Customer.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:11:13.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CheckoutModel.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\CheckoutModel.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\CheckoutModel.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\CheckoutModel.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\CheckoutModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:10:30.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\CartItemDto.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\CartItemDto.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:09:01.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\CartItem.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\CartItem.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:08:22.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutoApproveModel.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\AutoApproveModel.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Models\\AutoApproveModel.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Models\\AutoApproveModel.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Models\\AutoApproveModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:07:49.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminAuthenticationMiddleware.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Middleware\\AdminAuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Middleware\\AdminAuthenticationMiddleware.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Middleware\\AdminAuthenticationMiddleware.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Middleware\\AdminAuthenticationMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:09:40.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Hubs\\NotificationHub.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T05:40:38.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MarketPlaceDbContext.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Data\\MarketPlaceDbContext.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Data\\MarketPlaceDbContext.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Data\\MarketPlaceDbContext.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Data\\MarketPlaceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T05:39:34.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T05:38:50.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:28:35.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\appsettings.json",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\appsettings.json",
+              "RelativeToolTip": "MarketPlaceApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T01:48:09.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250506172305_AddIsPendingToVendor.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250506172305_AddIsPendingToVendor.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Migrations\\20250506172305_AddIsPendingToVendor.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250506172305_AddIsPendingToVendor.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Migrations\\20250506172305_AddIsPendingToVendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:23:05.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250420152628_InitialCreate.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250420152628_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Migrations\\20250420152628_InitialCreate.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250420152628_InitialCreate.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Migrations\\20250420152628_InitialCreate.cs",
+              "ViewState": "AgIAAEgAAAAA/v///z8kwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:26:28.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MarketPlaceApi.csproj",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi.csproj",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\MarketPlaceApi.csproj",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi.csproj",
+              "RelativeToolTip": "MarketPlaceApi\\MarketPlaceApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T22:42:43.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250420151207_InitialCreate.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250420151207_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Migrations\\20250420151207_InitialCreate.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250420151207_InitialCreate.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Migrations\\20250420151207_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:12:07.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250420134042_InitialCreate.cs",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250420134042_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\Migrations\\20250420134042_InitialCreate.cs",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\Migrations\\20250420134042_InitialCreate.cs",
+              "RelativeToolTip": "MarketPlaceApi\\Migrations\\20250420134042_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:40:42.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MarketPlaceApi",
+              "DocumentMoniker": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi.csproj",
+              "RelativeDocumentMoniker": "MarketPlaceApi\\MarketPlaceApi.csproj",
+              "ToolTip": "D:\\downloads\\MarketPlaceApi (2)\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi\\MarketPlaceApi.csproj",
+              "RelativeToolTip": "MarketPlaceApi\\MarketPlaceApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T22:42:40.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
